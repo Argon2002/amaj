@@ -1,2 +1,2 @@
 # amaj
-This is a new project for apply center in Iran and bringing dollar income 
+This is a new project for apply center in Iran and bringing dollar income under all TeleeWork circumstances
